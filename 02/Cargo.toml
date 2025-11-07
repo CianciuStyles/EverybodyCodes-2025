@@ -1,0 +1,8 @@
+[package]
+name = "EC-2025-02"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+helpers = { path = "../helpers" }
+regex = "1.12.2"
