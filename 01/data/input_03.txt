@@ -1,0 +1,3 @@
+Galwyris,Kynurath,Brelketh,Kazvor,Naldgalor,Wyngoril,Naldxar,Xilath,Thyrosulth,Pylarquin,Thyroselor,Agnarcalyx,Kronmir,Orahdaros,Sylophis,Ignzor,Sorvash,Zorulth,Larnarith,Cyndsaral,Zarpyros,Tharilaes,Karthynn,Dormyr,Draithxar,Oryparth,Gavelor,Gaerjor,Mavxar,Ulksaral
+
+L9,R6,L31,R23,L13,R25,L33,R12,L34,R27,L40,R41,L32,R16,L9,R22,L34,R15,L36,R31,L5,R41,L5,R16,L5,R35,L5,R26,L5,R8,L5,R23,L5,R26,L5,R33,L5,R25,L5,R48,L29,R20,L26,R42,L8,R16,L27,R35,L30,R14,L36,R45,L9,R11,L7,R8,L13,R13,L29

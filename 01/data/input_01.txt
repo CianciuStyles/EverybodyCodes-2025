@@ -1,0 +1,3 @@
+Ulxal,Qyrasor,Helagrath,Draznix,Kalselor,Quorgnar,Aeorxar,Myrgryph,Lazgonn,Khargnar
+
+L2,R4,L8,R3,L2,R8,L2,R5,L2,R8,L8
