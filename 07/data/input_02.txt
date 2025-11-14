@@ -1,0 +1,25 @@
+Araktal,Falpyr,Arakpyr,Aeorpyr,Tarlsor,Araktal,Gavralis,Phyrgonn,Falgonn,Tarlgonn,Aeortal,Gavtal,Agnarath,Arakoris,Drelpyr,Phyrtal,Gavaxis,Tarlpyr,Drelralis,Karthralis,Phyrpyr,Phyraxis,Arakilor,Drelxal,Karthxal,Agnarsor,Phyroris,Drelaxis,Agnarralis,Gavsor,Aeororis,Phyrxal,Arakaxis,Falxal,Arakilor,Tarlilor,Tarlaxis,Dreloris,Tarlath,Agnarilor,Aeorxal,Arakath,Falilor,Araksor,Aeorsor,Tarlxal,Faltal,Agnaraxis,Gavxal,Arakgonn,Arakxal,Karthoris,Tarloris,Arakxal,Falralis,Karthpyr,Aeorath,Drelgonn,Phyrilor,Falsor,Arakralis,Drelsor,Tarlralis,Aeoraxis,Arakgonn,Agnarxal,Phyrath,Aeorilor,Karthtal,Karthgonn,Gavath,Falaxis,Karthath,Arakoris,Agnartal,Arakpyr,Gavoris,Falath,Gavgonn,Karthilor,Arakralis,Aeorgonn,Phyrsor,Araksor,Faloris,Gavpyr,Phyrralis,Drelath,Arakaxis,Aeorralis,Agnaroris,Tarltal,Agnargonn,Dreltal,Gavilor,Agnarpyr,Arakath,Karthaxis,Karthsor,Drelilor
+
+a > v,l,t,x,r,k
+e > l,v
+v > r,x,i,g,a,t,o,s,p
+g > o,v
+y > r
+s > o
+K > a
+o > r,n
+p > y
+x > a,i
+D > r
+n > n,a
+G > a
+r > a,t,i,x,r,g,o,s,p,v,l
+l > i,o,x,r,g,a,t,s,p
+h > x,i,r,g,a,t,o,s,p,v
+A > g,r,e
+i > s,l
+T > a
+F > a
+k > x,i,r,g,a,t,o,s,p
+P > h
+t > h,a

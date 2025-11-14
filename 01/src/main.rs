@@ -4,7 +4,7 @@ struct Instruction {
 }
 
 fn parse_input(input: &str) -> (Vec<&str>, Vec<Instruction>) {
-    let parts: Vec<&str> = input.split("\n\n").collect();
+    let parts = helpers::split_at_double_newline(input);
 
     let names = parts[0].split(',').collect();
     let instructions = parts[1]
