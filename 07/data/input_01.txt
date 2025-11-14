@@ -1,0 +1,16 @@
+Azris,Kalsarix,Kalris,Azsarix,Kaleldrin,Thymris,Azeldrin,Thymsarix,Thymeldrin
+
+m > s,e,r
+y > m
+s > a
+h > b
+T > h
+i > n,x,s
+r > i
+d > r
+K > a
+l > d,s,e,r
+e > l
+z > e,b
+a > r,b
+A > z
